@@ -21,8 +21,8 @@ Check out the entire [modlist](modlist.md)
 
 ## Minimum
 
-- 2 GB Memory
-- 1.5 GB Storage
+- 4 GB Memory
+- 2 GB Storage
 
 ## Recommended
 
