@@ -14,6 +14,8 @@
 
 FAV-Forge provides a large beautiful world with many new structures for you to explore, and some new tools to _create_ factories and farms to automate anything you could need.
 
+Check out the entire [modlist](modlist.md)
+
 # Requirements
 
 ## Minimum
