@@ -1,4 +1,4 @@
-![FAV-Forge 1.20.1](banner.png)
+![FAV-Forge 1.20.1](media/banner.png)
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ Make sure you are downloading the **correct version** for your launcher
 
 This example is showing how to import a new modpack into the MultiMC launcher. Similar steps should work in other launchers.
 
-![multimc example](multimc.gif)
+![multimc example](media/multimc.gif)
 
 ## Java
 
@@ -52,7 +52,7 @@ $ java --version
 
 To use the provided distant horizons server data, download the separate zip file and extract the contents into the folder of your instance. This folder can be usually opened from your launcher.
 
-![dhsd example](dhsd.gif)
+![dhsd example](media/dhsd.gif)
 
 You do not need this data to run the modpack, but it is recommended for those who would like to enjoy visual experience on the official server to the fullest, as it provides pregenerated LODs of the spawn area in a 2500 block radius.
 
