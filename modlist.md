@@ -10,13 +10,13 @@
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [Explosive Enchancement](https://modrinth.com/mod/explosive-enhancement-forge)
 - [Fusion Connected Textures](https://modrinth.com/mod/fusion-connected-textures)
 - [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
 - [No More Night Vision Flashing!](https://modrinth.com/mod/no-nv-flash)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Oculus](https://modrinth.com/mod/oculus)
 - [Raised](https://modrinth.com/mod/raised)
-- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)
 
 # Menus
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
@@ -51,6 +51,7 @@
 - [squaremap](https://modrinth.com/plugin/squaremap)
 
 # Modpack Utils
+- [Configurable Death](https://modrinth.com/mod/configurable-death)
 - [Configured Defaults](https://modrinth.com/mod/configured-defaults)
 - [Item Obliterator](https://modrinth.com/mod/item-obliterator)
 - [KubeJS](https://modrinth.com/mod/kubejs)
@@ -59,6 +60,7 @@
 - [World Preview](https://modrinth.com/mod/world-preview)
 
 # Quality of Life
+- [Carry On](https://modrinth.com/mod/carry-on)
 - [Chalk](https://modrinth.com/mod/chalk-mod)
 - [Curios API](https://modrinth.com/mod/curios)
 - [Effect Descriptions](https://modrinth.com/mod/effect-descriptions)
@@ -77,9 +79,9 @@
 
 # Multiplayer
 - [Heartstone](https://modrinth.com/mod/heartstone)
+- [Lootr](https://modrinth.com/mod/lootr)
 - [No Chat Report](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
-- [OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins)
 - [Scholar](https://modrinth.com/mod/scholar)
 - [Shipping](https://modrinth.com/mod/shipping)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
@@ -104,6 +106,10 @@
   - [Ruined Portals](https://modrinth.com/datapack/no-more-ruined-portals)
   - [Shipwrecks](https://modrinth.com/datapack/no-more-shipwrecks)
 - [Sparse Structures](https://modrinth.com/mod/sparsestructuresreforged)
+- [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+- [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
+- [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 
 # Origins
 - [Origins](https://modrinth.com/mod/origins-forge)
@@ -156,6 +162,7 @@
   - [Candlelight](https://modrinth.com/mod/lets-do-candlelight)
   - [HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
   - [Vinary](https://modrinth.com/mod/lets-do-vinery)
+- [Spice of Life: Apple Pie Edition](https://modrinth.com/mod/spice-of-life-apple-pie-edition)
 
 # Storage
 - [Pretty Pipes](https://modrinth.com/mod/pretty-pipes)
@@ -199,6 +206,7 @@
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
 
 # Misc
+- [aleki's Nifty Ships](https://modrinth.com/mod/alekiships)
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Personality](https://modrinth.com/mod/personality!)
 - [Sleep Tight](https://modrinth.com/mod/sleep-tight)
