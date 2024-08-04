@@ -18,9 +18,9 @@
 
 ### Removed
 
-- Fresh Moves (https://modrinth.com/resourcepack/tras-fresh-player)
-- OfflineSkins (https://www.curseforge.com/minecraft/mc-mods/offlineskins)
-- What Are They Up To (https://modrinth.com/mod/what-are-they-up-to)
+- Fresh Moves
+- OfflineSkins
+- What Are They Up To
 
 ### Modified
 
